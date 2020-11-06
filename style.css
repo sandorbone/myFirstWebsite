@@ -1,0 +1,54 @@
+header{
+    background-color: #333333;
+    height: 150px;
+    width: auto;
+}
+    .navlista a{
+        color:#ff0099;
+        text-decoration: underline;
+        text-transform: uppercase;
+        width: 50px;
+        font-size: 30px;
+        
+    }
+    .navlista{
+        word-spacing: 50px;
+       float: left;
+       width: 50%;
+       padding-top: 50px;
+    }
+    svg{
+        padding-left: 100px;
+    }
+    body{
+        background-image: url("../assets/hatterkep.png");
+        font-family: 'Consolas', courier;
+    }
+    h1{
+        font-family: 'Dancing Script', cursive;
+        font-size: 84px;
+        font-weight: bold;
+    }
+    h2{
+        font-family: 'Dancing Script', cursive;
+        font-size: 34px;
+        font-weight: bold;
+        color: #ff0099;
+    }
+    p{
+        font-size: 34px;
+        padding: 10px;
+        line-height: normal;
+        
+    }
+    .paragrafus{
+        padding: 10%;
+    }
+    .divider{
+        text-align: center;
+    }
+    .clearfix {
+        clear: both;
+    }
+
+   
